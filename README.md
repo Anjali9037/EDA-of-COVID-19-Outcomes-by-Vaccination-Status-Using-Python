@@ -8,7 +8,7 @@ COVID-19-Vaccination-Outcomes-EDA/
 │
 ├── README.md                          <-- You are here
 ├── data/
-│   ├── raw/                           <-- Original dataset (not uploaded due to size)
+│   ├── raw/                           <-- Original dataset 
 │   └── cleaned/                       <-- COVID19_Vaccination_Outcomes_Cleaned.csv
 ├── notebooks/                         <-- Jupyter/Colab notebooks with complete analysis
 ├── scripts/                           <-- data_cleaning.py and visualization_utils.py
